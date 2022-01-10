@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>data/pulsu1.png</file>
+        <file>data/pulsu2.png</file>
+        <file>data/nysse.png</file>
+        <file>data/kalja.png</file>
+        <file>data/koti.png</file>
+    </qresource>
+</RCC>
